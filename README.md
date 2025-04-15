@@ -35,10 +35,8 @@ Professional Excel dashboard demonstrating advanced data analysis and visualizat
 ---
 
 ## 📬 **Contact & Collaboration**  
-👤 **Navid Ahmadiii**  
 🔗 [LinkedIn Profile](https://https://www.linkedin.com/in/navid-ahmadii/)
 
 ---
 
 📄 **License**: [MIT License](https://choosealicense.com/licenses/mit/)  
-⚠️ **Note**: Sensitive data has been anonymized for public sharing.  
