@@ -13,7 +13,7 @@ Professional Excel dashboard demonstrating advanced data analysis and visualizat
 ## 📂 File Structure
 📦 Excel_Project/
 ├── 📂 images/
-│   └── 📄 preview.png
+   └── 📄 preview.png
 └── 📄 Excel Project Dataset.xlsx
 
 ## 🚦 **Getting Started**  
