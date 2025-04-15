@@ -12,8 +12,9 @@ Professional Excel dashboard demonstrating advanced data analysis and visualizat
 
 ## 📂 File Structure
 📦 Portfolio_Excel_Dashboard
-├── 📄 Excel Project Dataset.xlsx 
-├── images
+├── 📁 images/
+│   └── 📄 preview.png
+└── 📄 Excel Project Dataset.xlsx
 
 ## 🚦 **Getting Started**  
 1. **Clone Repository**:  
