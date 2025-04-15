@@ -11,6 +11,7 @@ Professional Excel dashboard demonstrating advanced data analysis and visualizat
 - KPI Tracking Dashboard
 
 ## 📂 File Structure
+
 Excel_Project/
 ├── images/
 │   └── preview.png
