@@ -2,18 +2,18 @@
 
 ![Dashboard Preview](https://raw.githubusercontent.com/NavidAhmadiii/Portfolio_Excel_Dashboard/master/images/preview.png)
 ## 🚀 Project Overview
-Professional Excel dashboard demonstrating advanced data analysis and visualization techniques for [Your Project Domain].
+Professional Excel dashboard demonstrating advanced data analysis and visualization techniques.
 
 ## ✨ Key Features
 - Interactive Pivot Tables & Charts
 - Dynamic Slicers & Timelines
 - Automated Data Cleaning with Power Query
 - KPI Tracking Dashboard
-- Mobile-Responsive Design
 
 ## 📂 File Structure
 📦 Portfolio_Excel_Dashboard
 ├── 📄 Excel Project Dataset.xlsx 
+├── images
 
 ## 🚦 **Getting Started**  
 1. **Clone Repository**:  
