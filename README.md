@@ -30,7 +30,7 @@ Professional Excel dashboard demonstrating advanced data analysis and visualizat
 ---
 
 ## 📸 **Preview & Demo**  
-![Sales Overview Tab]![Dashboard Preview](https://raw.githubusercontent.com/NavidAhmadiii/Portfolio_Excel_Dashboard/master/images/preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/NavidAhmadiii/Portfolio_Excel_Dashboard/master/images/preview.png)
 
 ---
 
