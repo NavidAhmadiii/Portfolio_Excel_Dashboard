@@ -1,6 +1,5 @@
 # 📊 Excel Dashboard Portfolio
 
-![Dashboard Preview](https://raw.githubusercontent.com/NavidAhmadiii/Portfolio_Excel_Dashboard/master/images/preview.png)
 ## 🚀 Project Overview
 Professional Excel dashboard demonstrating advanced data analysis and visualization techniques.
 
@@ -31,8 +30,7 @@ Professional Excel dashboard demonstrating advanced data analysis and visualizat
 ---
 
 ## 📸 **Preview & Demo**  
-![Sales Overview Tab](/images/preview1.png)  
-*Main Dashboard Interface - Replace with your screenshots*  
+![Sales Overview Tab]![Dashboard Preview](https://raw.githubusercontent.com/NavidAhmadiii/Portfolio_Excel_Dashboard/master/images/preview.png)
 
 ---
 
