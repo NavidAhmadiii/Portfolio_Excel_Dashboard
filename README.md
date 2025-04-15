@@ -1,7 +1,6 @@
 # 📊 Excel Dashboard Portfolio
 
-![Dashboard Preview](https://raw.githubusercontent.com/NavidAhmadiii/Excel_Project/images/preview.png)  
-
+![Dashboard Preview](https://raw.githubusercontent.com/NavidAhmadiii/Excel_Project/main/images/preview.png)
 ## 🚀 Project Overview
 Professional Excel dashboard demonstrating advanced data analysis and visualization techniques for [Your Project Domain].
 
