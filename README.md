@@ -36,7 +36,6 @@ Professional Excel dashboard demonstrating advanced data analysis and visualizat
 
 ## 📬 **Contact & Collaboration**  
 👤 **Navid Ahmadiii**  
-📧 [navidahmadi6293@gmail.com]  
 🔗 [LinkedIn Profile](https://https://www.linkedin.com/in/navid-ahmadii/)
 
 ---
